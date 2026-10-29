@@ -1,0 +1,21 @@
+candidate_id,gender_group,qualification_score,skills_score,experience_years,interview_score
+C001,Group A,82,88,4,78
+C002,Group A,75,80,3,82
+C003,Group A,90,91,6,85
+C004,Group A,68,72,2,70
+C005,Group A,78,76,5,74
+C006,Group A,85,84,7,80
+C007,Group A,71,73,2,75
+C008,Group A,88,86,8,89
+C009,Group A,64,70,1,68
+C010,Group A,80,83,4,81
+C011,Group B,80,86,4,77
+C012,Group B,74,79,3,80
+C013,Group B,87,90,6,84
+C014,Group B,66,70,2,69
+C015,Group B,76,75,5,72
+C016,Group B,82,83,7,79
+C017,Group B,69,71,2,73
+C018,Group B,86,85,8,87
+C019,Group B,62,68,1,66
+C020,Group B,79,81,4,78
