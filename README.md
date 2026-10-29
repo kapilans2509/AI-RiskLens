@@ -147,3 +147,13 @@ AI_RiskLens/
 └── tests/
     └── test_risklens.py
 ```
+## Application Screenshots
+
+### Dashboard
+![AI RiskLens Dashboard](screenshots/dashboard.png)
+
+### Fairness Experiment Lab
+![Fairness Experiment Lab](screenshots/experiment-lab.png)
+
+### Scoring Strategy Comparison
+![Scoring Strategy Comparison](screenshots/strategy-comparison.png)
